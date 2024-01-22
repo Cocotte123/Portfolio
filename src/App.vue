@@ -52,7 +52,7 @@ nav {
     background-color: #6B9080;
     text-align: center;
     width: 100%;
-    padding: 0,5%;
+    padding: 0.5%;
     
 }
 

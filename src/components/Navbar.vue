@@ -64,7 +64,7 @@
     color: #1a3429;
     font-family: "Urbanist";
     font-size: 2em;
-    margin-bottom: 0,5%;
+    margin-bottom: 0.5%;
     margin-top:0%;
 }
 
